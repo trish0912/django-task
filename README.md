@@ -119,7 +119,12 @@ ASSESSMENT/
 
 ## 🚀 Run Locally
 
+## 🛠️ Clone This Repository
 
+```bash
+git clone https://github.com/trish0912/django-task.git
+cd django-task
+```
 1.Create virtual environment
 ```
 python -m venv env
