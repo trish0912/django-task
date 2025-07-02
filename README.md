@@ -119,15 +119,8 @@ ASSESSMENT/
 
 ## 🚀 Run Locally
 
-1. Clone the repo
 
-```
-git clone https://github.com/trish0912/django-task.git
-cd django-task/ASSESSMENT
-
-```
-
-2.Create virtual environment
+1.Create virtual environment
 ```
 python -m venv env
 
@@ -145,12 +138,12 @@ source env/bin/activate
 
 ```
 
-3. Install Django  
+2. Install Django  
 ```
 pip install -r requirements.txt
 
 ```
-4. Run the test files from the project root:
+3. Run the test files from the project root:
 ```bash
 python test_signal_sync.py
 python test_signal_thread.py
